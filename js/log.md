@@ -11,4 +11,9 @@
 
 **Thoughts:** Most of these basic concepts sound familiar but I would not skip so that I revise everything from scratch.
 
+### Day 2: Thursday May 16, 2031.11:36pm 
+
+**Today's Progress**:
+
+Note - started late at night due to having things to do during the day.
 ---
