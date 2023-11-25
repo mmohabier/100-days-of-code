@@ -19,3 +19,5 @@
  
 - Currently at 20/113
 ---
+## Restart
+i moved and finally have time to start back this process, to try to get the basic java scripts finish i will be doing 10-20 modules a day hopefully i will finish basic java for the again in 1 week.
